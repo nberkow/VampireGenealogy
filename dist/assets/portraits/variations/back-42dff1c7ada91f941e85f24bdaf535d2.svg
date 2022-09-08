@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_2"
+   viewBox="0 0 69.02 80"
+   version="1.1"
+   sodipodi:docname="back.svg"
+   inkscape:export-filename="C:\Users\Nathan\Projects\VGame\assets\portraits\01.png"
+   inkscape:export-xdpi="119.61751"
+   inkscape:export-ydpi="119.61751"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7537"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="5.45"
+     inkscape:cx="12.385321"
+     inkscape:cy="45.412844"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_2" />
+  <defs
+     id="defs7369">
+    <style
+       id="style7176">.cls-1{fill:#c89aed;}.cls-2{fill:#fff;}.cls-3{fill:#f8ffbf;}.cls-4{fill:#7b7be8;}.cls-5{fill:#a88347;}.cls-6{fill:#782ab5;}.cls-7,.cls-8{stroke-miterlimit:10;}.cls-7,.cls-8,.cls-9{stroke:#000;}.cls-7,.cls-8,.cls-9,.cls-10,.cls-11,.cls-12{fill:none;}.cls-8,.cls-9,.cls-10{stroke-linecap:round;}.cls-13{fill:#1c46ff;}.cls-9,.cls-10{stroke-linejoin:round;}.cls-10{stroke:#deb778;stroke-dasharray:0 0 0 4.06;}.cls-14{fill:url(#USGS_19_Inundación_de_tierra);}.cls-15{fill:#e6c0f2;}.cls-16{fill:#deb778;}.cls-17{fill:#ffc16b;}.cls-18{fill:#fefffc;}.cls-12{stroke:#1d1d1b;stroke-dasharray:0 0 2 2;stroke-width:.3px;}.cls-19{fill:#fcf0ff;}.cls-20{fill:#fcf0c5;}.cls-21{fill:#b83521;}</style>
+    <pattern
+       id="USGS_19_Inundación_de_tierra"
+       x="0"
+       y="0"
+       width="72"
+       height="72"
+       patternTransform="translate(-20.48 -15991) rotate(-90)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 72 72">
+      <g
+         id="g7366">
+        <rect
+           class="cls-11"
+           width="72"
+           height="72"
+           id="rect7178" />
+        <g
+           id="g7216">
+          <line
+             class="cls-12"
+             x1="71"
+             y1="71"
+             x2="144.44"
+             y2="71"
+             id="line7180" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="67"
+             x2="144.44"
+             y2="67"
+             id="line7182" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="63"
+             x2="144.44"
+             y2="63"
+             id="line7184" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="59"
+             x2="144.44"
+             y2="59"
+             id="line7186" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="55"
+             x2="144.44"
+             y2="55"
+             id="line7188" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="51"
+             x2="144.44"
+             y2="51"
+             id="line7190" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="47"
+             x2="144.44"
+             y2="47"
+             id="line7192" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="43"
+             x2="144.44"
+             y2="43"
+             id="line7194" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="39"
+             x2="144.44"
+             y2="39"
+             id="line7196" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="35"
+             x2="144.44"
+             y2="35"
+             id="line7198" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="31"
+             x2="144.44"
+             y2="31"
+             id="line7200" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="27"
+             x2="144.44"
+             y2="27"
+             id="line7202" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="23"
+             x2="144.44"
+             y2="23"
+             id="line7204" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="19"
+             x2="144.44"
+             y2="19"
+             id="line7206" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="15"
+             x2="144.44"
+             y2="15"
+             id="line7208" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="11"
+             x2="144.44"
+             y2="11"
+             id="line7210" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="7"
+             x2="144.44"
+             y2="7"
+             id="line7212" />
+          <line
+             class="cls-12"
+             x1="71"
+             y1="3"
+             x2="144.44"
+             y2="3"
+             id="line7214" />
+        </g>
+        <g
+           id="g7290">
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="71"
+             x2="72.44"
+             y2="71"
+             id="line7218" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="67"
+             x2="72.44"
+             y2="67"
+             id="line7220" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="63"
+             x2="72.44"
+             y2="63"
+             id="line7222" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="59"
+             x2="72.44"
+             y2="59"
+             id="line7224" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="55"
+             x2="72.44"
+             y2="55"
+             id="line7226" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="51"
+             x2="72.44"
+             y2="51"
+             id="line7228" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="47"
+             x2="72.44"
+             y2="47"
+             id="line7230" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="43"
+             x2="72.44"
+             y2="43"
+             id="line7232" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="39"
+             x2="72.44"
+             y2="39"
+             id="line7234" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="35"
+             x2="72.44"
+             y2="35"
+             id="line7236" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="31"
+             x2="72.44"
+             y2="31"
+             id="line7238" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="27"
+             x2="72.44"
+             y2="27"
+             id="line7240" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="23"
+             x2="72.44"
+             y2="23"
+             id="line7242" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="19"
+             x2="72.44"
+             y2="19"
+             id="line7244" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="15"
+             x2="72.44"
+             y2="15"
+             id="line7246" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="11"
+             x2="72.44"
+             y2="11"
+             id="line7248" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="7"
+             x2="72.44"
+             y2="7"
+             id="line7250" />
+          <line
+             class="cls-12"
+             x1="-1"
+             y1="3"
+             x2="72.44"
+             y2="3"
+             id="line7252" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="69"
+             x2="74.48"
+             y2="69"
+             id="line7254" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="65"
+             x2="74.48"
+             y2="65"
+             id="line7256" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="61"
+             x2="74.48"
+             y2="61"
+             id="line7258" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="57"
+             x2="74.48"
+             y2="57"
+             id="line7260" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="53"
+             x2="74.48"
+             y2="53"
+             id="line7262" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="49"
+             x2="74.48"
+             y2="49"
+             id="line7264" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="45"
+             x2="74.48"
+             y2="45"
+             id="line7266" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="41"
+             x2="74.48"
+             y2="41"
+             id="line7268" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="37"
+             x2="74.48"
+             y2="37"
+             id="line7270" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="33"
+             x2="74.48"
+             y2="33"
+             id="line7272" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="29"
+             x2="74.48"
+             y2="29"
+             id="line7274" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="25"
+             x2="74.48"
+             y2="25"
+             id="line7276" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="21"
+             x2="74.48"
+             y2="21"
+             id="line7278" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="17"
+             x2="74.48"
+             y2="17"
+             id="line7280" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="13"
+             x2="74.48"
+             y2="13"
+             id="line7282" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="9"
+             x2="74.48"
+             y2="9"
+             id="line7284" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="5"
+             x2="74.48"
+             y2="5"
+             id="line7286" />
+          <line
+             class="cls-12"
+             x1="1.04"
+             y1="1"
+             x2="74.48"
+             y2="1"
+             id="line7288" />
+        </g>
+        <g
+           id="g7364">
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="71"
+             x2=".44"
+             y2="71"
+             id="line7292" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="67"
+             x2=".44"
+             y2="67"
+             id="line7294" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="63"
+             x2=".44"
+             y2="63"
+             id="line7296" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="59"
+             x2=".44"
+             y2="59"
+             id="line7298" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="55"
+             x2=".44"
+             y2="55"
+             id="line7300" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="51"
+             x2=".44"
+             y2="51"
+             id="line7302" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="47"
+             x2=".44"
+             y2="47"
+             id="line7304" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="43"
+             x2=".44"
+             y2="43"
+             id="line7306" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="39"
+             x2=".44"
+             y2="39"
+             id="line7308" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="35"
+             x2=".44"
+             y2="35"
+             id="line7310" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="31"
+             x2=".44"
+             y2="31"
+             id="line7312" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="27"
+             x2=".44"
+             y2="27"
+             id="line7314" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="23"
+             x2=".44"
+             y2="23"
+             id="line7316" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="19"
+             x2=".44"
+             y2="19"
+             id="line7318" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="15"
+             x2=".44"
+             y2="15"
+             id="line7320" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="11"
+             x2=".44"
+             y2="11"
+             id="line7322" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="7"
+             x2=".44"
+             y2="7"
+             id="line7324" />
+          <line
+             class="cls-12"
+             x1="-73"
+             y1="3"
+             x2=".44"
+             y2="3"
+             id="line7326" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="69"
+             x2="2.48"
+             y2="69"
+             id="line7328" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="65"
+             x2="2.48"
+             y2="65"
+             id="line7330" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="61"
+             x2="2.48"
+             y2="61"
+             id="line7332" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="57"
+             x2="2.48"
+             y2="57"
+             id="line7334" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="53"
+             x2="2.48"
+             y2="53"
+             id="line7336" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="49"
+             x2="2.48"
+             y2="49"
+             id="line7338" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="45"
+             x2="2.48"
+             y2="45"
+             id="line7340" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="41"
+             x2="2.48"
+             y2="41"
+             id="line7342" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="37"
+             x2="2.48"
+             y2="37"
+             id="line7344" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="33"
+             x2="2.48"
+             y2="33"
+             id="line7346" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="29"
+             x2="2.48"
+             y2="29"
+             id="line7348" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="25"
+             x2="2.48"
+             y2="25"
+             id="line7350" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="21"
+             x2="2.48"
+             y2="21"
+             id="line7352" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="17"
+             x2="2.48"
+             y2="17"
+             id="line7354" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="13"
+             x2="2.48"
+             y2="13"
+             id="line7356" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="9"
+             x2="2.48"
+             y2="9"
+             id="line7358" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="5"
+             x2="2.48"
+             y2="5"
+             id="line7360" />
+          <line
+             class="cls-12"
+             x1="-70.96"
+             y1="1"
+             x2="2.48"
+             y2="1"
+             id="line7362" />
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <path
+     id="path7641-4"
+     style="fill:#782ab5;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.62226;stop-color:#000000"
+     d="M 34.900259,1.6936052 C 14.323312,9.5265586 1.6299002,23.954051 1.5689773,39.580572 V 79.197446 H 67.963672 V 39.580572 C 67.958188,23.990066 55.374427,9.5708664 34.900259,1.6936052 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="path7641-7"
+     style="fill:#808080;stroke:#4d4d4d;stroke-width:1.48325;stop-color:#000000"
+     d="M 34.629293,5.0425238 C 15.815619,12.204258 4.1542243,25.395327 4.1542243,39.682894 V 76.559207 H 64.859448 V 39.682894 c 0,-14.254531 -11.510452,-27.438125 -30.230155,-34.6403702 z m -0.01233,3.4358455 C 51.537073,14.988239 61.941622,26.904418 61.941622,39.788613 v 33.82806 H 7.07205 v -33.82806 c 0,-12.914055 10.539857,-24.836991 27.544909,-31.3102437 z"
+     sodipodi:nodetypes="csccsccsccscc" />
+  <path
+     id="path7641-7-8"
+     style="fill:#808080;stroke:#4d4d4d;stroke-width:1.35027;stop-color:#000000"
+     d="M 34.618314,8.2461803 C 17.491429,14.76581 6.8755673,26.7742 6.8755673,39.780777 v 33.57007 H 62.138105 v -33.57007 c 0,-12.976504 -10.478452,-24.978088 -27.519791,-31.5345967 z m -0.01123,3.1277957 c 15.403093,5.926211 24.874795,16.774013 24.874795,28.503041 V 70.672134 H 9.5317874 V 39.877017 c 0,-11.75621 9.5948786,-22.610165 25.0752986,-28.503041 z"
+     sodipodi:nodetypes="csccsccsccscc" />
+  <path
+     id="path7641-7-8-0"
+     style="fill:#808080;stroke:#4d4d4d;stroke-width:1.21411;stop-color:#000000"
+     d="M 34.607073,11.526302 C 19.207238,17.388502 9.6618637,28.185984 9.6618637,39.880997 V 70.06591 H 59.351809 V 39.880997 c 0,-11.667973 -9.421821,-22.459335 -24.744736,-28.354695 z m -0.0101,2.812393 c 13.849868,5.328621 22.366458,15.082547 22.366458,25.628837 V 67.657315 H 12.050234 V 39.967532 c 0,-10.570731 8.627346,-20.33019 22.546743,-25.628837 z"
+     sodipodi:nodetypes="csccsccsccscc" />
+</svg>
