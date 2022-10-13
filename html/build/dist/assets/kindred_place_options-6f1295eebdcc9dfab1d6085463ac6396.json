@@ -1,9 +1,0 @@
-{
-  "old_world":["Prague", "Constantinople", "Ljubljana", "Krasnoyarsk",
-    "Warsaw", "Kyiv", "Bucharest", "Moscow", "Bratislava", "Brno"],
-  "new_world":["Boston", "Brooklyn","Staten Island", "Chicago", "DC",
-    "Raleigh","Atlanta", "Portland", "Baltimore", "San Fransico"],
-  "contempo":["Omaha", "De Moins","Cleveland", "Pittsburgh", "Terra Haute",
-    "Battle Creek", "Waxahachee", "Minneapolis", "Calgary",
-    "Fort Worth", "Sacramento", "Seattle", "Wilmington"]
-}
