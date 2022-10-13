@@ -1,0 +1,15 @@
+{
+  "fears":["garlic", "silver", "black cats",
+    "clowns", "airplanes", "the abyss",
+    "political turmoil", "witches", "werewolves",
+    "human remains", "tanning salons", "daylight saving time"],
+  "powers":["flight", "invisibility", "transformation",
+    "mesmerism", "telekinesis", "political finesse"],
+  "trinkets":["a vial of ancient blood", "a fetching concubine", "an loyal hellhound"],
+  "titles":["Sheriff","King","Prince","Watcher",
+    "Tzar","Enforcer","Primogen","Inquisitor",
+    "Scion","Comptroller","Viscount"],
+  "factions":["Sons of Enoch", "Chiropetera","Eternal Night",
+    "Methuselans", "People of Seir in Edom", "Sanguine Priesthood",
+    "Gaudians of Mankind", "Accursed", "Thirst"]
+}
