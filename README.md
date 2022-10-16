@@ -1,2 +1,0 @@
-# VampireGenealogy
-trace bloodlines
